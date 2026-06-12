@@ -35,6 +35,10 @@ Install them using:
 pip install numpy scipy rasterio lightgbm scikit-learn
 ```
 
+## Usage
+
+Unzip the model and test data into your local directory, configure the corresponding paths in the script, and you can run it directly.
+
 ## License
 
 This code is released under the MIT License.
