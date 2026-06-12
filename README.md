@@ -1,5 +1,12 @@
 # Physics-Informed-Machine-Learning-approach-for-estimating-FAPAR-from-Landsat-surface-reflectance
+
+This repository provides two models, test code, and test data for the Physics-Informed Machine Learning approach for estimating spatiotemporally seamless FAPAR from Landsat surface reflectance.
+
+1. **clear-sky modle**: estimate Physics-Informed FAPAR utilizing original Landsat observations
+2. **cloudy-sky modle**: reconstructing spatiotemporally seamless FAPAR utilizing multi-year FAPAR combined with spatiotemporal information and environmental variables
+
 ## Repository structure
+
 ```text
 ├── LICENSE                 MIT license
 ├── README.md               Repository description, data format, and usage instructions
