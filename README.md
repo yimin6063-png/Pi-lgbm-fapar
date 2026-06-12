@@ -1,4 +1,4 @@
-# Physics-Informed-Machine-Learning-approach-for-estimating-FAPAR-from-Landsat-surface-reflectance
+# Physics-Informed Machine Learning approach for estimating FAPAR from Landsat surface reflectance
 
 This repository provides two models, test code, and test data for the Physics-Informed Machine Learning approach for estimating spatiotemporally seamless FAPAR from Landsat surface reflectance.
 
