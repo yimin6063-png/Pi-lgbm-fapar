@@ -1,1 +1,2 @@
 # Physics-Informed-Machine-Learning-approach-for-estimating-FAPAR-from-Landsat-surface-reflectance
+## Repository structure
