@@ -16,3 +16,21 @@ This repository provides two models, test code, and test data for the Physics-In
 ├── example cloudy-sky.zip  Test data         
 └── model.zip               Two models
 ```
+
+## Software requirements
+
+Python 3.9 or later is recommended. Required Python packages are:
+
+```text
+numpy
+scipy
+rasterio
+lightgbm
+scikit-learn
+```
+
+Install them using:
+
+```bash
+pip install numpy scipy rasterio lightgbm scikit-learn
+```
