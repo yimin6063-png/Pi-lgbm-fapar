@@ -34,3 +34,11 @@ Install them using:
 ```bash
 pip install numpy scipy rasterio lightgbm scikit-learn
 ```
+
+## License
+
+This code is released under the MIT License.
+
+## Author
+
+yimin6063-png
